@@ -30,7 +30,7 @@
         </style>
         <div>
             <h3 class="header-text">&#35;include &lt;mallard.h&gt;</h3>
-            <br>
+            <br />
             <h3 class="header-text">int main() &#123;</h3>
             <h2 class="header-text" style="text-decoration: underline;">Welcome to my GitHub</h2>
             <p class="main-text">
@@ -39,13 +39,13 @@
             </p>
 
             <aside class="main-text">"If it works, it's a good code" -Tsoding</aside>
-            <br>
+            <br />
             <h2 class="header-text">Highlighted Project:</h2>
             <h2 class="project-text">PEel</h2>
             <p class="main-text">
                 My solo-developed passion project: A PE parser built for reverse-engineering. I developed it to learn more about PE files 
                 and Windows internals. It is written entirely in Java so it can run on both Linux and Windows if needed. Current version: 1.1 (Alpha)
-            <br>
+            <br />
             <h2 class="header-text">AI Disclaimer:</h2>
             <p class="main-text">No AI was used in creating this svg. Vibe coding is for nerds.</p>
             <h4 class="header-text">return 0;</h4>

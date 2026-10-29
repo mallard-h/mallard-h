@@ -6,51 +6,61 @@
   xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%" class="bg">
     <div xmlns="http://www.w3.org/1999/xhtml" class="html-base">
-        <style>
-            .bg {
-                background-color: #101010;
-            }
-            .html-base {
-                background-color: #101010;
-            }
-            .header-text {
-                font-family: 'Courier New', Courier, monospace;
-                color: #50FF50;
-            }
-            .main-text {
-                font-family: 'Courier New', Courier, monospace;
-                color: #cfc4c4;
-                font-size: larger;
-            }
-            .project-text {
-                font-family: 'Courier New', Courier, monospace;
-                color: #fff650;
-            }
+      <style>
+        .bg {
+          background-color: #101010;
+        }
+        .html-base {
+          background-color: #101010;
+        }
+        .header-text {
+          font-family: "Courier New", Courier, monospace;
+          color: #50ff50;
+        }
+        .main-text {
+          font-family: "Courier New", Courier, monospace;
+          color: #cfc4c4;
+          font-size: larger;
+        }
+        .project-text {
+          font-family: "Courier New", Courier, monospace;
+          color: #fff650;
+        }
+      </style>
+      <div>
+        <h3 class="header-text">&#35;include &lt;mallard.h&gt;</h3>
+        <br />
+        <h3 class="header-text">int main() &#123;</h3>
+        <h2 class="header-text" style="text-decoration: underline">
+          Welcome to my GitHub
+        </h2>
+        <p class="main-text">
+          I'm a Software Development student at SAIT, currently in my final
+          year. I like to consider myself a reverse-engineer with many, many
+          things to learn. I love reversing malware, writing C programs, and
+          generally breaking any piece of software I can for fun.
+        </p>
 
-        </style>
-        <div>
-            <h3 class="header-text">&#35;include &lt;mallard.h&gt;</h3>
-            <br />
-            <h3 class="header-text">int main() &#123;</h3>
-            <h2 class="header-text" style="text-decoration: underline;">Welcome to my GitHub</h2>
-            <p class="main-text">
-                I'm a Software Development student at SAIT, currently in my final year. I like to consider myself a reverse-engineer with many, many things to learn.
-                I love reversing malware, writing C programs, and generally breaking any piece of software I can for fun.
-            </p>
-
-            <aside class="main-text">"If it works, it's a good code" -Tsoding</aside>
-            <br />
-            <h2 class="header-text">Highlighted Project:</h2>
-            <h2 class="project-text">PEel</h2>
-            <p class="main-text">
-                My solo-developed passion project: A PE parser built for reverse-engineering. I developed it to learn more about PE files 
-                and Windows internals. It is written entirely in Java so it can run on both Linux and Windows if needed. Current version: 1.1 (Alpha)
-            <br />
-            <h2 class="header-text">AI Disclaimer:</h2>
-            <p class="main-text">No AI was used in creating this svg. Vibe coding is for nerds.</p>
-            <h4 class="header-text">return 0;</h4>
-            <h3 class="header-text">&#125;</h3>
-        </div>
+        <aside class="main-text">
+          "If it works, it's a good code" -Tsoding
+        </aside>
+        <br />
+        <h2 class="header-text">Highlighted Project:</h2>
+        <h2 class="project-text">PEel</h2>
+        <p class="main-text">
+          My solo-developed passion project: A PE parser built for
+          reverse-engineering. I developed it to learn more about PE files and
+          Windows internals. It is written entirely in Java so it can run on
+          both Linux and Windows if needed. Current version: 1.1 (Alpha)
+        </p>
+        <br />
+        <h2 class="header-text">AI Disclaimer:</h2>
+        <p class="main-text">
+          No AI was used in creating this svg. Vibe coding is for nerds.
+        </p>
+        <h4 class="header-text">return 0;</h4>
+        <h3 class="header-text">&#125;</h3>
+      </div>
     </div>
   </foreignObject>
 </svg>

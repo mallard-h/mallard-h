@@ -1,1 +1,1 @@
-<img src="https://raw.github.com/mallard-h/mallard-h/mallard.svg"></img>
+<img src="./mallard.svg" alt="Mallard readme in SVG" width="200">

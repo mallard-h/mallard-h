@@ -26,10 +26,18 @@
           font-family: "Courier New", Courier, monospace;
           color: #fff650;
         }
+        .virtual-insanity {
+          font-family: "Courier New", Courier, monospace;
+          color: #fd3232;
+          font-weight: bold;
+        }
+        .invis {
+          color: #101010;
+        }
       </style>
       <div>
         <h3 class="header-text">&#35;include &lt;mallard.h&gt;</h3>
-        <br />
+        <hr class="invis" />
         <h3 class="header-text">int main() &#123;</h3>
         <h2 class="header-text" style="text-decoration: underline">
           Welcome to my GitHub
@@ -44,7 +52,7 @@
         <aside class="main-text">
           "If it works, it's a good code" -Tsoding
         </aside>
-        <br />
+        <h2></h2>
         <h2 class="header-text">Highlighted Project:</h2>
         <h2 class="project-text">PEel</h2>
         <p class="main-text">
@@ -53,11 +61,17 @@
           Windows internals. It is written entirely in Java so it can run on
           both Linux and Windows if needed. Current version: 1.1 (Alpha)
         </p>
-        <br />
+        <h2></h2>
         <h2 class="header-text">AI Disclaimer:</h2>
-        <p class="main-text">
-          No AI was used in creating this svg. Vibe coding is for nerds.
+        <p class="virtual-insanity">
+          "Now, always seem to be governed by this love we have for useless
+          twisting of our new technology" -Jamiroquai, 1996
         </p>
+        <h2></h2>
+        <p class="main-text">
+          No AI was used in creating this svg. Vibe coding is for losers.
+        </p>
+
         <h4 class="header-text">return 0;</h4>
         <h3 class="header-text">&#125;</h3>
       </div>

@@ -37,7 +37,6 @@
       </style>
       <div>
         <h3 class="header-text">&#35;include &lt;mallard.h&gt;</h3>
-        <hr class="invis" />
         <h3 class="header-text">int main() &#123;</h3>
         <h2 class="header-text" style="text-decoration: underline">
           Welcome to my GitHub
